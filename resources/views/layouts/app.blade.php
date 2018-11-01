@@ -2,8 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>{!! Form::label(trans('message.title')) !!}</title>
-        <!-- CSS And JavaScript -->        
+        <title>Task CRUD</title>
+        <!-- CSS And JavaScript -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">        
         {!! Html::style('css/all-css.css') !!}        
         {!! Html::script('js/all-js.js') !!}
     </head>

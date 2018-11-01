@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "empire-food-and-drink",
+  "private_key_id": "d9f071f26fbe45c2d94b06a02ab5eb03e6a79084",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDL2+5ts1d026u9\nhR9eXRadvmagLRKFYA8Xc9icfAysSdn6TnBZqzsdcEVmfwvxs7iCLFKjtpR7op6F\nA0XtKihnXz9o6c4EWCkw7Fp+VTam96LmqtmlgQfHH2A+4zlqvEN90qMzSu8vy0YJ\nlGr843d+Ww8ZZlPo3IwKuCrO9JwyWuFWHK6QJnQ6FDqhT+7wofeHXrZGeIVTG9qj\nlwVWionMTbkuge3UOESZBS/QDvxQRPDFdPEy9/yBfhKTIQv+9ukJYZE99Zld6H4Q\nXhif+gYhG25KOykH5igSviOJvFSiltr98ipT6ZzF0TpPU9H18XndtKtXuZNADgxp\nzs1AJggXAgMBAAECggEALmCe+gMCYvn0tL172O5pjkJ6O3d1jrU/SbEXtuX7xhhZ\nCDpfEe9EGBrqFvrRP1AJKkgmFsubNRNWZ+FKP73HCllfZiFGtrNNz6z9m18Me2i7\n/SkiMaZMnC7VqQjtj4w7+Hx6l1k1WBSxHs3OlzCyhyL1KOygK0o9a9ThHEsG2+dr\nX9fyXG1C2YcdpPuwwdXtKP3cTZfgRr3qu7Osdf4HL4WxS/HPoq0gTpgl5sv/9GTt\nzpq8O0oLODqD/AzZTaJVot+zgjuM38sjQUyAe9lTASoX4uZ1qsJ9gjLllHHRRTCO\nvgOdG9K/zrhwQwIrSo9f+bdRPu166d5y6PnpCChLhQKBgQD/wLQhsFLgHJjToVYL\nM0KbKdTJcYofBVs+742jVURnOKvklhPbOMsDpbsqH20Rivj6318y3dT85L16GZ+x\nIZxm58WRkr6OfWYlCMGw502T8WJM7R/B/sb28RvgX6ybgkJJxB/IY6ahy1C6slqm\nW5ys7RTYd7Le4sDme5CYx9ZOkwKBgQDMDmJxWA8jMKLUtSRzV79GIZ08kj0nPD51\nQ/5kHTOa9N6Sx4sWzAFqiqDrxbyG0w1WTyhZq+bin8355cZ1jCuRm1Chwdgql9gs\nKAYksygb2JCzu1B3TPnb8kwLstDTJc+EH6yJhpBfgsuVl46qqKpilfXWu/TIEeaI\nrZdptIfO7QKBgQCecypmsNI3rR/2Bb/EQqbicOE3SNO08mGctVfAOMSfWtoMTfrR\nV/dXNCeoKj4tnzcwXpGhdxRM9f56FkP8vwEiNDgQP6U1rHVLPoiZ7EQBA4zOch65\n1vo35htKQJw04FfnUc4LHcoP9WH3uSY2aQ3BiUTf9BDqy/uNEEL+lNiuZwKBgQC0\n70BM3lc1zcdkMmZqu/CHgADLF6SP6LQ9CJhGLzp1+RBuN+9VvHi4/sknpkK/jd5y\nnGfb8zgb1LUwE5UA39Q2HPDHLXm+crukk6y22AEFh+bu53W3AxM9+r+BVAIkZ490\nyR0VKLNVbUWVlDhVjI7gMbY1vJ2U1YKDyODMQt51FQKBgQD+LFfAxhtADKz3AbKw\nawfg0QxB4R/woW7odK4ofZeBoWp0+1w0Z8BgzDC74MqG0eJ0opMr0EMlXph5hx9j\n7/AObYfxTmfZtHBujMEjBkYvZsMta5NmWiV8LD+eTUa209UDeUAqvXXQBh+WHprl\nMDofgAdbj2frnl7dxReH+WkDYw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "crudwithexam@empire-food-and-drink.iam.gserviceaccount.com",
+  "client_id": "113181014001328984036",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crudwithexam%40empire-food-and-drink.iam.gserviceaccount.com"
+}

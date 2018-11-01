@@ -5,7 +5,7 @@ return [
     'title' => 'Laravel QuickTask - Basic',
     'enter_name' => 'enter task name',
     'task' => 'Task',
-    'ltask' => 'Task List',
+    'ltask' => 'Task CRUD',
     'add_task' => 'Add Task',
     'current_task' => 'Current Task',
     'delete' => 'Delete',
@@ -16,4 +16,7 @@ return [
     'update' => 'Update',
     'notfounddb' => 'The task you need to delete does not exist in the database',
     'notexist' => 'The DB was not existed - detail at task id : ',
+    'edit' => 'Update',
+    'description' => 'Describe',
+    'descript' => 'Describe'
 ];

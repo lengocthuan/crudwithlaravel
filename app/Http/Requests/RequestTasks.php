@@ -14,7 +14,16 @@ class RequestTasks extends FormRequest
     public function rules()
     {
         return [
-            'name' => 'required|max:255',
+            'name' => 'required|max:25',
+            'descript' => 'required|max:25'
         ];
     }
+    public function messages()
+    {
+        return [
+            'required' => trans('message.required', ['attribute' => 'name']),
+            'max' => trans('message.max', ['attribute' => 'name']),
+        ];
+    }
+
 }

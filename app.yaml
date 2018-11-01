@@ -1,0 +1,30 @@
+runtime: php
+env: flex
+
+runtime_config:
+  document_root: public
+
+# Ensure we skip ".env", which is only for local development
+skip_files:
+  - .env
+
+env_variables:
+  # Put production environment variables here.
+  APP_LOG: errorlog
+  APP_KEY: base64:cCHhMX7F0Xdhln+2lQnRjcDkOBRjS4BkXJhwGL8m2/8=
+  STORAGE_DIR: /tmp
+  CACHE_DRIVER: database
+  SESSION_DRIVER: database
+  ## Set these environment variables according to your CloudSQL configuration.
+  DB_CONNECTION: mysql
+  DB_HOST: localhost
+  DB_PORT: 3306
+  DB_DATABASE: laravel01
+  DB_USERNAME: root
+  DB_PASSWORD: laravel
+  DB_SOCKET: "/cloudsql/empire-food-and-drink:asia-southeast1:crudmyexam"
+
+beta_settings:
+    # for Cloud SQL, set this value to the Cloud SQL connection name,
+    # e.g. "project:region:cloudsql-instance"
+    cloud_sql_instances: "empire-food-and-drink:asia-southeast1:crudmyexam"
